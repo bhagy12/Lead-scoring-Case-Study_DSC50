@@ -1,4 +1,4 @@
-# Lead-scoring-casestudy
+# Lead-Scoring-Case_Study
 
 Lead Score Case study solved using Logistic Regression Model
 
@@ -34,4 +34,4 @@ For this case study we're going to use several classification model to predict w
 
 - Lead_Scoring_Case_Study_PPT.pdf : This file contains a presentation of the analysis done using Logistic Regression Model.
 
-- Executive_Summary.pdf : This file contains summary report of the case study.
+- Lead_Scoring_CS_Executive_Summary.pdf : This file contains summary report of the case study.
