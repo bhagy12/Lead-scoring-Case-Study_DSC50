@@ -1,4 +1,4 @@
-# Lead-Scoring-Case_Study
+# Lead_Scoring_Case_Study
 
 Lead Score Case study solved using Logistic Regression Model
 
